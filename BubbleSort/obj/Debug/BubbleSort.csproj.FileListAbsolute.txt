@@ -1,0 +1,7 @@
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
